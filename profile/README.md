@@ -15,5 +15,5 @@ to get involved!
   * [fivem-react-boilerplate-lua](https://github.com/project-error/fivem-react-boilerplate-lua)
 
 ----
-Project Error repositories adopt the [Contributor Covenant's](https://opensource.microsoft.com/codeofconduct/) Code of Conduct. 
-For further information, see [Contributor Convenant's Website](https://https://www.contributor-covenant.org/).
+Project Error repositories adopt the Contributor Covenant's Code of Conduct. 
+For further information, see [Contributor Convenant's Website](https://www.contributor-covenant.org/).
