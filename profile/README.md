@@ -8,7 +8,7 @@ The success and longetivity of open source projects are wholly dependent
 on the help & contributions of the greater community. Checkout the following,
 to get involved!
 
-* [Join our Discord Server](https://discord.gg/8KGqh6ghZT)
+* [Join our Discord Server](https://discord.gg/uy5N7jT5aJ)
 * [Our Contributor Guide](../.github/CONTRIBUTING.md)
 * Check out some of our more popular projects to start!
   * [NPWD](https://github.com/project-error/npwd)
